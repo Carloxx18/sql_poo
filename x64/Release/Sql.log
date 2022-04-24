@@ -1,0 +1,4 @@
+﻿  Sql.cpp
+C:\Users\Carloxx18\Documents\Sql Intento2\Sql\Sql\Sql.cpp(22,56): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'proveedor'
+C:\Users\Carloxx18\Documents\Sql Intento2\Sql\Sql\Sql.cpp(22,56): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+  proveedor.cpp
